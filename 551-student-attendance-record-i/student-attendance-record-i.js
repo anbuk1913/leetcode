@@ -17,7 +17,6 @@ for(let i=0;i<s.length;i++){
     } else {
         lcount=0
     }
-    console.log(lcount)
     if(max<lcount){
         max=lcount
     }
