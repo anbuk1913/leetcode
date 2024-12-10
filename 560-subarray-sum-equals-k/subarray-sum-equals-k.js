@@ -11,7 +11,6 @@ var subarraySum = function(nums, k) {
             count++
         }
         for(let j=i+1;j<nums.length;j++){
-            
             t1+=nums[j]
             if(t1==k){
                 count++
