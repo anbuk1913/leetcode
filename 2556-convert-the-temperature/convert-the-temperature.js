@@ -3,8 +3,5 @@
  * @return {number[]}
  */
 var convertTemperature = function(celsius) {
-    let arr=[]
-    arr.push(celsius+273.15)
-    arr.push((celsius*1.80)+32)
-    return arr
+    return [celsius+273.15,(celsius*1.80)+32]
 };
