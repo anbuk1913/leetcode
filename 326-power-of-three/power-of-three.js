@@ -3,8 +3,7 @@
  * @return {boolean}
  */
 var isPowerOfThree = function(n) {
-    let i=1
-    let t=1
+    let i=1,t=1
     if(n==1)return true
     while(t<=n){
         t=1
