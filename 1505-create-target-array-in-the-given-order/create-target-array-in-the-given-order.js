@@ -6,7 +6,7 @@
 var createTargetArray = function(nums, index) {
     let ans=[]
     for(let i=0;i<nums.length;i++){
-        ans = ans.toSpliced(index[i],0,nums[i])
+        ans.splice(index[i],0,nums[i])
     }
     return ans
 };
