@@ -4,33 +4,16 @@
  * @return {string}
  */
 var convert = function(s, numRows) {
-    if(numRows === 1)return s
-    let arr = Array.from({length:numRows},()=>[])
-    arr[0][0] = s[0]
-    let track = true
-    let tem = 1
-    for(let i=1;i<s.length;i++){
-        if(track){
-            if(tem+1<numRows){
-                arr[tem++].push(s[i])
-            } else {
-                track = false
-                arr[tem--].push(s[i])
-            }
-        } else {
-            if(tem>0){
-                arr[tem--].push(s[i])
-            } else {
-                track = true
-                arr[tem++].push(s[i])
-            }
+    if(numRows===1||s.length <3)return s
+    let arr = new Array(numRows).fill("");
+    let track = false
+    let tem = 0
+    for(let char of s) {
+        arr[tem] += char
+        if(tem ===0 || tem === numRows-1) {
+         track = !track
         }
+        tem += track ? 1 : -1
     }
-    let ans = ""
-    for(let i of arr){
-        for(let j of i){
-            ans+=j
-        }
-    }
-    return ans
+    return arr.join('')
 };
