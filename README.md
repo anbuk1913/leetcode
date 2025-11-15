@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0504-base-7](https://github.com/anbuk1913/leetcode/tree/master/0504-base-7) |
+| [0728-self-dividing-numbers](https://github.com/anbuk1913/leetcode/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
