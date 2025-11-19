@@ -1,5 +1,4 @@
 function furthestDistanceFromOrigin(moves: string): number {
-    let ans = 0
     let L = 0
     let R = 0
     let _ = 0
