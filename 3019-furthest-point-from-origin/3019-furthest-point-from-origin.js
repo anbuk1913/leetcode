@@ -3,7 +3,6 @@
  * @return {number}
  */
 var furthestDistanceFromOrigin = function(moves) {
-    let ans = 0
     let L = 0
     let R = 0
     let _ = 0
