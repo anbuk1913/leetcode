@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anbuk1913/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anbuk1913/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk1913/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/anbuk1913/leetcode/tree/master/3019-furthest-point-from-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anbuk1913/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
