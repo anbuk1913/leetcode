@@ -18,6 +18,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/anbuk1913/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anbuk1913/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk1913/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/anbuk1913/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anbuk1913/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/anbuk1913/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/anbuk1913/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
