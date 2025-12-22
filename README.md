@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/anbuk1913/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/anbuk1913/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/anbuk1913/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/anbuk1913/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
