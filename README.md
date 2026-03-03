@@ -11,6 +11,7 @@
 | ------- |
 | [0504-base-7](https://github.com/anbuk1913/leetcode/tree/master/0504-base-7) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anbuk1913/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anbuk1913/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anbuk1913/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3019-furthest-point-from-origin](https://github.com/anbuk1913/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Array
@@ -40,6 +41,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anbuk1913/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk1913/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anbuk1913/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anbuk1913/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
