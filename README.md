@@ -13,6 +13,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/anbuk1913/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anbuk1913/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anbuk1913/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1881-maximum-value-after-insertion](https://github.com/anbuk1913/leetcode/tree/master/1881-maximum-value-after-insertion) |
 | [3019-furthest-point-from-origin](https://github.com/anbuk1913/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anbuk1913/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anbuk1913/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1881-maximum-value-after-insertion](https://github.com/anbuk1913/leetcode/tree/master/1881-maximum-value-after-insertion) |
 ## Hash Table
 |  |
 | ------- |
